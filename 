@@ -1,0 +1,142 @@
+[33mcommit a2a3929a769d4a2b5eca1e51a7f6e277899eb220[m[33m ([m[1;36mHEAD -> [m[1;32mGo_API[m[33m, [m[1;31morigin/Go_API[m[33m)[m
+Merge: b4a845f d363449
+Author: Graham-CO <grwi2594@colorado.edu>
+Date:   Mon Mar 7 02:42:22 2022 -0700
+
+    Merge branch 'Go_API' of https://github.com/Graham-CO/GEEN3400plantapp into Go_API
+
+[33mcommit b4a845fc9e5a3cf79e6233e961d08a8cc4dcb0e7[m
+Author: Graham-CO <grwi2594@colorado.edu>
+Date:   Mon Mar 7 02:38:40 2022 -0700
+
+    demo changes
+
+[33mcommit d363449a5263972f6dae3eb6de9bdaaba41ba9b4[m
+Merge: c033b83 2cab80b
+Author: Graham-CO <grwi2594@colorado.edu>
+Date:   Mon Mar 7 02:36:41 2022 -0700
+
+    Merge pull request #7 from grw300/Go_API
+    
+    Use NewDoc so that we can have more than one plant per userid
+
+[33mcommit 2cab80b97dd7258e603041f25fc00ba4d8d9466e[m
+Author: Gregory Williams <grw300@gmail.com>
+Date:   Tue Mar 1 13:00:51 2022 -0800
+
+    Use NewDoc so that we can have more than one plant per userid
+
+[33mcommit c033b830c8c25ef0c5c320d1d17a198d70ba3933[m
+Author: Graham-CO <grwi2594@colorado.edu>
+Date:   Thu Feb 24 23:11:46 2022 -0700
+
+    change localhost
+
+[33mcommit fb43d7d6cc2a4a28b5f73de6cb0b5823f808de42[m
+Merge: 0bf9fd3 fa7983c
+Author: Graham-CO <grwi2594@colorado.edu>
+Date:   Thu Feb 24 22:42:11 2022 -0700
+
+    Merge pull request #5 from grw300/Go_API
+    
+    Add post to the plants endpoint
+
+[33mcommit fa7983ca890cce4e2bdd9b16b1b6f7d6bbca23cf[m
+Author: Gregory Williams <grw300@gmail.com>
+Date:   Thu Feb 24 21:34:33 2022 -0800
+
+    Add post to the plants endpoint
+
+[33mcommit 0bf9fd34c0de867d6dd392ed3da946859d26bac2[m
+Author: Graham-CO <grwi2594@colorado.edu>
+Date:   Thu Feb 24 21:01:24 2022 -0700
+
+    add .gitignore
+
+[33mcommit 348a88c5267456d8de5b7b3b76708216e5bb583f[m
+Author: Graham-CO <grwi2594@colorado.edu>
+Date:   Wed Feb 23 10:21:17 2022 -0700
+
+    go117-->go116
+
+[33mcommit 4048e1d7c4bf644aaed16935a722fbfd423d191c[m
+Author: Graham-CO <grwi2594@colorado.edu>
+Date:   Wed Feb 23 10:20:22 2022 -0700
+
+    move app.yaml
+
+[33mcommit 3caaeab78295b7c70b929fc9a380a2b25133f9b6[m
+Author: Graham-CO <grwi2594@colorado.edu>
+Date:   Wed Feb 23 10:19:09 2022 -0700
+
+    added app-engine reqs
+
+[33mcommit e710c47e8f8dfe70349e7b2928f14c8d10815e11[m
+Author: Graham-CO <grwi2594@colorado.edu>
+Date:   Mon Feb 21 08:50:02 2022 -0700
+
+    converging histories
+
+[33mcommit d42843160d2731db4b553f30d0d03c0f11f7224e[m
+Author: Graham-CO <grwi2594@colorado.edu>
+Date:   Mon Feb 21 08:43:31 2022 -0700
+
+    organization
+
+[33mcommit 018fb2ea6c28b701b09d7a2b9613b27347a4cca4[m
+Author: trhu2740 <82547472+trhu2740@users.noreply.github.com>
+Date:   Fri Feb 18 09:34:09 2022 -0700
+
+    images for version beta
+
+[33mcommit bd995482271ed763efba888a863bc47486865b1f[m
+Author: trhu2740 <82547472+trhu2740@users.noreply.github.com>
+Date:   Fri Feb 18 09:32:27 2022 -0700
+
+    Version 'beta' - rolling with this UI
+
+[33mcommit f5ce7c006333032a0925b22c95f56ea7d86afc7c[m
+Author: spicyyui <98626731+spicyyui@users.noreply.github.com>
+Date:   Wed Feb 16 21:52:47 2022 -0700
+
+    About.js page general layout
+
+[33mcommit a8c51f24be4d64d97bbc24b7ba9e41249b58fcf2[m
+Author: trhu2740 <82547472+trhu2740@users.noreply.github.com>
+Date:   Wed Feb 16 10:39:13 2022 -0700
+
+    Delete screens directory
+
+[33mcommit 3dc4c868edb83eddc71893d1c90c48fc910b4753[m
+Author: spicyyui <98626731+spicyyui@users.noreply.github.com>
+Date:   Wed Feb 16 10:18:21 2022 -0700
+
+    Update about
+    
+    about
+
+[33mcommit 7cfe8b0ad4169c6502802fbc6954b080a224d015[m
+Author: trhu2740 <82547472+trhu2740@users.noreply.github.com>
+Date:   Fri Feb 11 22:08:22 2022 -0700
+
+    Delete App.js
+
+[33mcommit 241243022a1ca08376a69b31cd4377812fdde1b7[m
+Author: trhu2740 <82547472+trhu2740@users.noreply.github.com>
+Date:   Mon Feb 7 22:54:37 2022 -0700
+
+    Add files via upload
+    
+    App Development - First Commit
+
+[33mcommit a0d169fe840a90177987a85e887b443e8824adee[m
+Author: GEEN3400plantapp <98626466+GEEN3400plantapp@users.noreply.github.com>
+Date:   Fri Jan 28 18:17:32 2022 -0700
+
+    Update README.md
+
+[33mcommit 24d52c4dc1adbccf0feaf6bc50edc8fd59142fce[m
+Author: GEEN3400plantapp <98626466+GEEN3400plantapp@users.noreply.github.com>
+Date:   Fri Jan 28 18:14:00 2022 -0700
+
+    Create README.md
